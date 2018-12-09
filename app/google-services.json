@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "15425353573",
+    "firebase_url": "https://karakod-74941.firebaseio.com",
+    "project_id": "karakod-74941",
+    "storage_bucket": "karakod-74941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15425353573:android:8aae9b2d0a3a6f45",
+        "android_client_info": {
+          "package_name": "com.example.ali.karakod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15425353573-iqe7i1ehddp139oclf8ql6d53ncd9ugi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ali.karakod",
+            "certificate_hash": "d816ba1eb64106235b420a5e49a6dc70b6505569"
+          }
+        },
+        {
+          "client_id": "15425353573-04269m61sr0au63c0kdfqaspp9kp0phe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYGr4sv8FTe-vs9KVfnH74oHAYEK_9ZBw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15425353573-04269m61sr0au63c0kdfqaspp9kp0phe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
